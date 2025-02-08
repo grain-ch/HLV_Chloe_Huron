@@ -7,7 +7,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/HLV_Chloe_Huron_Mod/USD517_Huron/gun/BGA008_2_pdr_MkVIII_8barrel_mg.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/HLV_Chloe_Huron_Mod/USD517_Huron/gun/BGA008_2_pdr_MkVIII_8barrel_n.dds	</Texture>
-	</property>
 </BGA008_2_pdr_MkVIII_8barrel_wire.mfm>

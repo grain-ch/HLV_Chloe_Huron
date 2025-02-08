@@ -7,7 +7,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/HLV_Chloe_Huron_Mod/USD517_Huron/ship/USD004_Huron_1943_mg.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/HLV_Chloe_Huron_Mod/USD517_Huron/ship/USD004_Huron_1943_n.dds	</Texture>
-	</property>
 </USD004_Huron_1943_wire.mfm>
